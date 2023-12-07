@@ -24,9 +24,3 @@ This project is a Flask-based web application for image recognition, utilizing T
 - TensorFlow
 - HTML
 - JavaScript
-
-### Setup and Installation
-(Provide setup and installation instructions here)
-
-### Usage
-(Guide on how to use the application)
